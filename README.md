@@ -1,4 +1,4 @@
-# Tmux Configuration Repository
+# Tmux Configuration
 
 This repository contains my personal tmux configuration and plugins. It aims to provide an improved terminal experience with enhanced navigation and functionality.
 
