@@ -4,7 +4,7 @@ This repository contains my personal tmux configuration and plugins. It aims to 
 
 ## Installation
 
-First, clone this repository to your `.config` directory or whever you want to install tmux:
+First, clone this repository to your `~/.config` directory or wherever you want to install tmux:
 
 ```bash
 cd ~/.config
@@ -26,10 +26,6 @@ To update all installed plugins, press `Prefix + U` (capital u, as in Update).
 ## Key Bindings
 
 This configuration defines several custom key bindings to enhance tmux's usability. Please refer to the .tmux.conf file for details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contributions
 
