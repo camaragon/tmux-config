@@ -7,7 +7,7 @@ This repository contains my personal tmux configuration and plugins. It aims to 
 First, clone this repository to your `.config` directory or whever you want to install tmux:
 
 ```bash
-cd ~
+cd ~/.config
 git clone https://github.com/camaragon/tmux-config.git
 ```
 
