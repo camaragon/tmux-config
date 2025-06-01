@@ -8,7 +8,12 @@ First, clone this repository to your `~/.config` directory or wherever you want 
 
 ```bash
 cd ~/.config
-git clone https://github.com/camaragon/tmux-config.git
+git clone https://github.com/camaragon/tmux-config.git tmux
+```
+
+## Installing TPM
+```bash
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
 ## Installing Plugins
